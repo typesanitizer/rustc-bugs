@@ -1,0 +1,4 @@
+/target/
+
+# Any data files used by benchmarks are ignored.
+benchmarks/data/
